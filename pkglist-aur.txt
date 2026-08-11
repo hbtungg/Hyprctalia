@@ -2,8 +2,6 @@ fcitx5-lotus-bin
 google-chrome
 noctalia-git
 paru
-paru-debug
 python-pywalfox
 spotify
 yay
-yay-debug
