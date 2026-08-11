@@ -33,3 +33,11 @@ hl.env("ELECTRON_OZONE_PLATFORM_HINT", "auto")
 -- 4. CURSOR & DISPLAY FIXES
 --------------------------------------------------------------------------------
 hl.env("WLR_NO_HARDWARE_CURSORS", "1")
+
+--------------------------------------------------------------------------------
+-- 5. FCITX5 / LOTUS INPUT METHOD
+--------------------------------------------------------------------------------
+hl.env("XMODIFIERS", "@im=fcitx")
+hl.env("QT_IM_MODULE", "fcitx")
+hl.env("GTK_IM_MODULE", "fcitx")
+hl.env("SDL_IM_MODULE", "fcitx")

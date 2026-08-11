@@ -1,7 +1,7 @@
 fcitx5-lotus-bin
 google-chrome
-noctalia-git
-paru
-python-pywalfox
+overskride
+rustdesk-bin
+sddm-astronaut-theme
 spotify
-yay
+visual-studio-code-bin
